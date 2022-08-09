@@ -23,12 +23,12 @@
 # 教程以后再做,发现还有点bug,先放点图片让你们看看
 
 ## 主页
-![image](https://user-images.githubusercontent.com/47025714/183654336-c8d7576e-3361-4d81-a0c1-187e39d428e8.png)
 ![image](https://user-images.githubusercontent.com/47025714/183644040-37c45c61-dd95-4ba7-8c7a-3f9f29570d67.png)
 ![image](https://user-images.githubusercontent.com/47025714/183645305-2dacd3d6-dc46-484e-b179-b33dbcce8f1b.png)
 ### 那个搜索就只是个按钮,没其他作用(添加方便,就是要考虑结构,有正式版了后就一定有这个功能),列数动态改变
 
 ## 发现页
+![image](https://user-images.githubusercontent.com/47025714/183654336-c8d7576e-3361-4d81-a0c1-187e39d428e8.png)
 ![image](https://user-images.githubusercontent.com/47025714/183644262-a84f5f3f-521a-48f4-9413-024800f5235f.png)
 ![image](https://user-images.githubusercontent.com/47025714/183644596-3360888f-0af1-4c9c-9ed1-8ee90913a77f.png)
 ### 自适应网页,有预览小窗口,打开可以随意拖动,放大缩小,货比三家(手机拖不了,但是可以看)
